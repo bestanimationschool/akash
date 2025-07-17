@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akash/static/css/main.3264f998.css",
+    "main.js": "/akash/static/js/main.c070c6a7.js",
+    "static/js/453.f0af0c5b.chunk.js": "/akash/static/js/453.f0af0c5b.chunk.js",
+    "index.html": "/akash/index.html",
+    "main.3264f998.css.map": "/akash/static/css/main.3264f998.css.map",
+    "main.c070c6a7.js.map": "/akash/static/js/main.c070c6a7.js.map",
+    "453.f0af0c5b.chunk.js.map": "/akash/static/js/453.f0af0c5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3264f998.css",
+    "static/js/main.c070c6a7.js"
+  ]
+}
